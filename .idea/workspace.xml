@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9fe06d7-f7c9-4469-b47b-a73e472ff137" name="Default Changelist" comment="新增七个文件">
+      <change beforePath="$PROJECT_DIR$/target/GroovyTest-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="idcos" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lELG01rLQEaN7gv4B52m65L41b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9fe06d7-f7c9-4469-b47b-a73e472ff137" name="Default Changelist" comment="" />
+      <created>1607157204729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607157204729</updated>
+      <workItem from="1607157206058" duration="1054000" />
+      <workItem from="1607158351844" duration="253000" />
+      <workItem from="1607158856610" duration="131000" />
+      <workItem from="1607159009192" duration="7000" />
+      <workItem from="1607159095504" duration="882000" />
+      <workItem from="1607758687100" duration="242000" />
+    </task>
+    <task id="LOCAL-00001" summary="新增七个文件">
+      <created>1607157334049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607157334049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增七个文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增七个文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="121" key="#Project_Structure" timestamp="1607158566179">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="#Project_Structure/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607158566179" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1607162873798">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607159409749" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/-1280.303.1280.777/0.23.1920.993@0.23.1920.993" timestamp="1607162873798" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1607162873797">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607159409746" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/-1280.303.1280.777/0.23.1920.993@0.23.1920.993" timestamp="1607162873797" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1607162873796">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607159409745" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/-1280.303.1280.777/0.23.1920.993@0.23.1920.993" timestamp="1607162873796" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1607162873797">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607159409748" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/-1280.303.1280.777/0.23.1920.993@0.23.1920.993" timestamp="1607162873797" />
+    <state x="469" y="147" key="SettingsEditor" timestamp="1607159380759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="147" key="SettingsEditor/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607159380759" />
+    <state x="469" y="158" key="SettingsEditor/-1280.303.1280.777/0.23.1920.993@0.23.1920.993" timestamp="1607157652185" />
+    <state x="560" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607157535281">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="560" y="259" key="Vcs.Push.Dialog.v2/-1280.303.1280.777/0.23.1920.993@0.23.1920.993" timestamp="1607157535281" />
+    <state x="625" y="255" width="670" height="675" key="run.anything.popup" timestamp="1607159409697">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="255" width="670" height="675" key="run.anything.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607159409697" />
+  </component>
+</project>
